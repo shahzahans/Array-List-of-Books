@@ -1,9 +1,8 @@
 /**
  * Title:   Lab 3 - Book class implementation: book.cpp
- * Purpose: ** Book file creates a class to create, copy, manipulate, and display book objects book objects using various formats such as string and JSON  **
+ * Purpose: ** Book file creates a class to create, copy, manipulate, and display book objects using various formats such as string and JSON  **
  * Course:  CSC 2430 Spring 2022
  * Author:  ** Shadman Shahzahan**
- *
  */
 
 #include "book.h"
